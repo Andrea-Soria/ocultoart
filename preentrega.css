@@ -59,6 +59,9 @@ nav ul li{
 	padding: 5px;
 	color: white;
 }
+.fondo{
+	background-image: src="imagenes/ropa.png";
+}
 
 /*main*/
 
@@ -142,6 +145,7 @@ nav li:hover .submenu{
 		ul li{
 			font-size: 10px;
 		}
+
 }
 
 @media (max-width: 720px) {
